@@ -4,10 +4,13 @@ This repository is for showing how Git and GitHub work!
 
 ## Introduction
 
-Sample website with plenty of files for 
+Sample website to show different parts of git repo and various commands using a web project
 
 ## Deployment
+xxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Purpose
+yyyyyyyyyyyyyyyyyyyyyyyy
 
 ## How to contribute
+zzzzzzzzzzzzzzzzzzzzzzzzzz
