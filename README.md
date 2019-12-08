@@ -7,10 +7,10 @@ This repository is for showing how Git and GitHub work!
 Sample website to show different parts of git repo and various commands using a web project
 
 ## Deployment
-xxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxx
 
 ## Purpose
-yyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyy
 
 ## How to contribute
 zzzzzzzzzzzzzzzzzzzzzzzzzz
